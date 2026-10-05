@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400"><ellipse cx="200" cy="335" rx="110" ry="14" fill="#1f2025" opacity="0.10"/>
+<rect x="135" y="120" width="130" height="200" rx="34" fill="#fff"/><rect x="135" y="120" width="130" height="200" rx="34" fill="none" stroke="#d5dceb" stroke-width="3"/>
+<rect x="168" y="70" width="14" height="56" rx="5" fill="#9aa3b5"/><rect x="218" y="70" width="14" height="56" rx="5" fill="#9aa3b5"/>
+<rect x="178" y="250" width="44" height="16" rx="8" fill="#1f2025"/><rect x="186" y="255" width="28" height="6" rx="3" fill="#5f6165"/>
+<text x="200" y="200" text-anchor="middle" font-family="Arial,sans-serif" font-size="30" font-weight="700" fill="#1446ff">20W</text></svg>

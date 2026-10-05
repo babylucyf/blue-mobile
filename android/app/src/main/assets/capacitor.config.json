@@ -1,0 +1,8 @@
+{
+	"appId": "com.ugonwa.blue",
+	"appName": "Blue",
+	"webDir": "dist",
+	"android": {
+		"adjustMarginsForEdgeToEdge": "force"
+	}
+}
